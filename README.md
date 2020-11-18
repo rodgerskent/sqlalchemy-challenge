@@ -3,7 +3,7 @@ Name
 SQLalchemy challenge – Surfs Up!
 
 Overview
-This project requires utilizing climate data for Hawaii and presenting summary insights/analystics via an web api. 
+This project requires utilizing climate data for Hawaii and presenting summary insights/analytics via an web api. 
 
 Approach & Methodology
 The project required building the initial analysis in Jupyter Notebook for planning purposes. Then Python code was utilized to present the desired data in a json format via a web api. 
@@ -44,6 +44,7 @@ The project is a building block for being able to provide HTML dashboards in fut
 Repository Summary & Deliverables Locator
 •	Juypter Notebook = climate_starter.ipynb
 •	Application = app.py
+- Rodgers_PitchBook_SurfsUp = Images of charts and web pages from the effort
 
 Support
 Again thanks to tutor to support pushing through the start/end enabled query. 
@@ -58,4 +59,4 @@ License
 Not applicable
 
 Project status
-Core assignment is complete. The bonus section is still pending. 
+Core assignment is complete. The bonus section is submitted but with limited success. 
